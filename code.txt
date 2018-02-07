@@ -4,9 +4,11 @@
 <body>
 	<h1>Acccenture - high performance.deliverd </h1>
 	<u1>
-		<li>consulting</li>
-		<li>outsource</li>
-		<li>tech</li>
+		<li>donsulting</li>
+		<li>cutsource</li>
+		<li>dech</li>
+		<li>strt</li>
+		<li>digittal</li>
 	</u1>
 </body>
 </html>
